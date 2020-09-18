@@ -1,0 +1,77 @@
+epoch 1:
+loss: 0.347324   POD: 0.001184   FAR: 0.999940   TS: 0.000038   binary_acc: 0.992633   val_loss: 0.187236   val_POD: 0.000000   val_FAR: 1.000000   val_TS: 0.000000   val_sumPOD: 0.000000   val_sumFAR: 0.000000   val_sumTS: 0.000000   val_sumETS: 0.000000   
+test_sumPOD: 0.000000   test_sumFAR: 0.000000   test_sumTS: 0.000000   test_sumETS: 0.000000   
+epoch 2:
+loss: 0.283664   POD: 0.084086   FAR: 0.933666   TS: 0.030732   binary_acc: 0.989483   val_loss: 0.176896   val_POD: 0.109164   val_FAR: 0.968500   val_TS: 0.022471   val_sumPOD: 0.246849   val_sumFAR: 0.839731   val_sumTS: 0.107636   val_sumETS: 0.098462   
+test_sumPOD: 0.389944   test_sumFAR: 0.758273   test_sumTS: 0.175397   test_sumETS: 0.165044   
+epoch 3:
+loss: 0.272282   POD: 0.220236   FAR: 0.905797   TS: 0.067735   binary_acc: 0.981895   val_loss: 0.169921   val_POD: 0.091518   val_FAR: 0.964579   val_TS: 0.022486   val_sumPOD: 0.230385   val_sumFAR: 0.827869   val_sumTS: 0.109289   val_sumETS: 0.100637   
+test_sumPOD: 0.395810   test_sumFAR: 0.749552   test_sumTS: 0.181182   test_sumETS: 0.170934   
+epoch 4:
+loss: 0.265958   POD: 0.229486   FAR: 0.897540   TS: 0.072289   binary_acc: 0.982084   val_loss: 0.163104   val_POD: 0.087341   val_FAR: 0.959214   val_TS: 0.023565   val_sumPOD: 0.215491   val_sumFAR: 0.810459   val_sumTS: 0.112152   val_sumETS: 0.104120   
+test_sumPOD: 0.385530   test_sumFAR: 0.734465   test_sumTS: 0.186574   test_sumETS: 0.176689   
+epoch 5:
+loss: 0.261608   POD: 0.235000   FAR: 0.901087   TS: 0.070831   binary_acc: 0.981399   val_loss: 0.159385   val_POD: 0.073316   val_FAR: 0.957455   val_TS: 0.022792   val_sumPOD: 0.194868   val_sumFAR: 0.803162   val_sumTS: 0.108554   val_sumETS: 0.101042   
+test_sumPOD: 0.378438   test_sumFAR: 0.726028   test_sumTS: 0.188948   test_sumETS: 0.179277   
+epoch 6:
+loss: 0.259385   POD: 0.236848   FAR: 0.898102   TS: 0.072787   binary_acc: 0.981506   val_loss: 0.163015   val_POD: 0.108173   val_FAR: 0.960933   val_TS: 0.024537   val_sumPOD: 0.256789   val_sumFAR: 0.826374   val_sumTS: 0.115557   val_sumETS: 0.106547   
+test_sumPOD: 0.448425   test_sumFAR: 0.753786   test_sumTS: 0.188981   test_sumETS: 0.178203   
+epoch 7:
+loss: 0.256769   POD: 0.244060   FAR: 0.896646   TS: 0.073880   binary_acc: 0.981189   val_loss: 0.160754   val_POD: 0.112826   val_FAR: 0.959007   val_TS: 0.024739   val_sumPOD: 0.270904   val_sumFAR: 0.837167   val_sumTS: 0.113217   val_sumETS: 0.103775   
+test_sumPOD: 0.476449   test_sumFAR: 0.768520   test_sumTS: 0.184539   test_sumETS: 0.173278   
+epoch 8:
+loss: 0.255829   POD: 0.245210   FAR: 0.895351   TS: 0.074845   binary_acc: 0.981329   val_loss: 0.167142   val_POD: 0.127150   val_FAR: 0.964094   val_TS: 0.024163   val_sumPOD: 0.301556   val_sumFAR: 0.850839   val_sumTS: 0.110861   val_sumETS: 0.100734   
+test_sumPOD: 0.504169   test_sumFAR: 0.781840   test_sumTS: 0.179622   test_sumETS: 0.167916   
+epoch 9:
+loss: 0.253650   POD: 0.248109   FAR: 0.894554   TS: 0.074903   binary_acc: 0.981082   val_loss: 0.158196   val_POD: 0.110974   val_FAR: 0.957994   val_TS: 0.025782   val_sumPOD: 0.261555   val_sumFAR: 0.825654   val_sumTS: 0.116836   val_sumETS: 0.107777   
+test_sumPOD: 0.459116   test_sumFAR: 0.756555   test_sumTS: 0.189186   test_sumETS: 0.178275   
+epoch 10:
+loss: 0.253323   POD: 0.249896   FAR: 0.895210   TS: 0.074943   binary_acc: 0.980929   val_loss: 0.153768   val_POD: 0.108724   val_FAR: 0.955328   val_TS: 0.027091   val_sumPOD: 0.259128   val_sumFAR: 0.821393   val_sumTS: 0.118232   val_sumETS: 0.109298   
+test_sumPOD: 0.446080   test_sumFAR: 0.751361   test_sumTS: 0.189982   test_sumETS: 0.179267   
+epoch 11:
+loss: 0.251521   POD: 0.254619   FAR: 0.895140   TS: 0.075919   binary_acc: 0.980848   val_loss: 0.154802   val_POD: 0.115524   val_FAR: 0.957749   val_TS: 0.026938   val_sumPOD: 0.270067   val_sumFAR: 0.827786   val_sumTS: 0.117516   val_sumETS: 0.108296   
+test_sumPOD: 0.467895   test_sumFAR: 0.759327   test_sumTS: 0.188956   test_sumETS: 0.177928   
+epoch 12:
+loss: 0.250829   POD: 0.259594   FAR: 0.894892   TS: 0.076825   binary_acc: 0.980676   val_loss: 0.162418   val_POD: 0.112596   val_FAR: 0.954691   val_TS: 0.026721   val_sumPOD: 0.272364   val_sumFAR: 0.828548   val_sumTS: 0.117590   val_sumETS: 0.108324   
+test_sumPOD: 0.461873   test_sumFAR: 0.764216   test_sumTS: 0.184970   test_sumETS: 0.173897   
+epoch 13:
+loss: 0.250811   POD: 0.264347   FAR: 0.895206   TS: 0.077242   binary_acc: 0.980548   val_loss: 0.153614   val_POD: 0.107304   val_FAR: 0.951051   val_TS: 0.028427   val_sumPOD: 0.252426   val_sumFAR: 0.813046   val_sumTS: 0.120330   val_sumETS: 0.111667   
+test_sumPOD: 0.429238   test_sumFAR: 0.741626   test_sumTS: 0.192305   test_sumETS: 0.181901   
+epoch 14:
+loss: 0.249109   POD: 0.258968   FAR: 0.896661   TS: 0.075779   binary_acc: 0.980570   val_loss: 0.165600   val_POD: 0.127209   val_FAR: 0.958825   val_TS: 0.025990   val_sumPOD: 0.300317   val_sumFAR: 0.844113   val_sumTS: 0.114355   val_sumETS: 0.104400   
+test_sumPOD: 0.509829   test_sumFAR: 0.780497   test_sumTS: 0.181251   test_sumETS: 0.169534   
+epoch 15:
+loss: 0.248660   POD: 0.265972   FAR: 0.895469   TS: 0.077364   binary_acc: 0.980350   val_loss: 0.156029   val_POD: 0.090185   val_FAR: 0.944074   val_TS: 0.028636   val_sumPOD: 0.218504   val_sumFAR: 0.791556   val_sumTS: 0.119417   val_sumETS: 0.111706   
+test_sumPOD: 0.395427   test_sumFAR: 0.719333   test_sumTS: 0.196392   test_sumETS: 0.186667   
+epoch 16:
+loss: 0.248413   POD: 0.267634   FAR: 0.893257   TS: 0.078221   binary_acc: 0.980211   val_loss: 0.171833   val_POD: 0.120742   val_FAR: 0.957507   val_TS: 0.026073   val_sumPOD: 0.296089   val_sumFAR: 0.841849   val_sumTS: 0.114937   val_sumETS: 0.105082   
+test_sumPOD: 0.496832   test_sumFAR: 0.779552   test_sumTS: 0.180214   test_sumETS: 0.168600   
+epoch 17:
+loss: 0.246779   POD: 0.269526   FAR: 0.895909   TS: 0.077405   binary_acc: 0.980243   val_loss: 0.156506   val_POD: 0.117739   val_FAR: 0.953900   val_TS: 0.027361   val_sumPOD: 0.276727   val_sumFAR: 0.826670   val_sumTS: 0.119289   val_sumETS: 0.110008   
+test_sumPOD: 0.474919   test_sumFAR: 0.762055   test_sumTS: 0.188385   test_sumETS: 0.177255   
+epoch 18:
+loss: 0.246442   POD: 0.272599   FAR: 0.894681   TS: 0.078152   binary_acc: 0.980210   val_loss: 0.157112   val_POD: 0.115441   val_FAR: 0.953543   val_TS: 0.028010   val_sumPOD: 0.275864   val_sumFAR: 0.825507   val_sumTS: 0.119677   val_sumETS: 0.110432   
+test_sumPOD: 0.468219   test_sumFAR: 0.761398   test_sumTS: 0.187729   test_sumETS: 0.176660   
+epoch 19:
+loss: 0.244551   POD: 0.278593   FAR: 0.892893   TS: 0.079723   binary_acc: 0.980092   val_loss: 0.152920   val_POD: 0.126103   val_FAR: 0.956437   val_TS: 0.027647   val_sumPOD: 0.291564   val_sumFAR: 0.828407   val_sumTS: 0.121102   val_sumETS: 0.111602   
+test_sumPOD: 0.477312   test_sumFAR: 0.762571   test_sumTS: 0.188435   test_sumETS: 0.177278   
+epoch 20:
+loss: 0.243302   POD: 0.275859   FAR: 0.894208   TS: 0.079193   binary_acc: 0.980037   val_loss: 0.163573   val_POD: 0.128354   val_FAR: 0.958203   val_TS: 0.026294   val_sumPOD: 0.305752   val_sumFAR: 0.846238   val_sumTS: 0.113971   val_sumETS: 0.103907   
+test_sumPOD: 0.505316   test_sumFAR: 0.778037   test_sumTS: 0.182341   test_sumETS: 0.170700   
+epoch 21:
+loss: 0.242789   POD: 0.279793   FAR: 0.894485   TS: 0.079596   binary_acc: 0.980049   val_loss: 0.157146   val_POD: 0.134552   val_FAR: 0.958398   val_TS: 0.026941   val_sumPOD: 0.309995   val_sumFAR: 0.844097   val_sumTS: 0.115740   val_sumETS: 0.105680   
+test_sumPOD: 0.511329   test_sumFAR: 0.777957   test_sumTS: 0.183173   test_sumETS: 0.171494   
+epoch 22:
+loss: 0.242499   POD: 0.281724   FAR: 0.894027   TS: 0.079416   binary_acc: 0.979811   val_loss: 0.167521   val_POD: 0.121959   val_FAR: 0.954369   val_TS: 0.027491   val_sumPOD: 0.285113   val_sumFAR: 0.828717   val_sumTS: 0.119823   val_sumETS: 0.110393   
+test_sumPOD: 0.489171   test_sumFAR: 0.765641   test_sumTS: 0.188280   test_sumETS: 0.176982   
+epoch 23:
+loss: 0.241514   POD: 0.285660   FAR: 0.893970   TS: 0.080328   binary_acc: 0.979699   val_loss: 0.156900   val_POD: 0.122075   val_FAR: 0.956059   val_TS: 0.027667   val_sumPOD: 0.288242   val_sumFAR: 0.831702   val_sumTS: 0.118890   val_sumETS: 0.109357   
+test_sumPOD: 0.494772   test_sumFAR: 0.762221   test_sumTS: 0.191325   test_sumETS: 0.180051   
+epoch 24:
+loss: 0.241361   POD: 0.281991   FAR: 0.894043   TS: 0.080150   binary_acc: 0.979689   val_loss: 0.151289   val_POD: 0.124390   val_FAR: 0.954259   val_TS: 0.028504   val_sumPOD: 0.283356   val_sumFAR: 0.821277   val_sumTS: 0.123086   val_sumETS: 0.113839   
+test_sumPOD: 0.462373   test_sumFAR: 0.755692   test_sumTS: 0.190261   test_sumETS: 0.179340   
+epoch 25:
+loss: 0.240573   POD: 0.287682   FAR: 0.892750   TS: 0.081467   binary_acc: 0.979636   val_loss: 0.157521   val_POD: 0.136727   val_FAR: 0.958368   val_TS: 0.026459   val_sumPOD: 0.308860   val_sumFAR: 0.839300   val_sumTS: 0.118196   val_sumETS: 0.108259   
+test_sumPOD: 0.507357   test_sumFAR: 0.771175   test_sumTS: 0.187225   test_sumETS: 0.175701   
+global_val_loss_min: 0.151289   global_val_loss_min_ETS: 0.113839   global_val_loss_min_epoch: 24   
+global_val_sumETS_max: 0.113839   global_val_sumETS_max_loss: 0.151289   global_val_sumETS_max_epoch: 24   
