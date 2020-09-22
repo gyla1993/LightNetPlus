@@ -2,7 +2,7 @@
 # LightNetPlus
 
 ### Runtime environment
-Our code requires python 3.6 with packages: tensorflow 1.13.1, keras 2.2.4 and numpy. If you use Anaconda, the following commands will help you create a feasible runtime environment.
+Our code requires python 3.6 with packages: tensorflow 1.13.1, keras 2.2.4 and numpy. If you use [Anaconda](https://www.anaconda.com/), the following commands will help you create a feasible runtime environment.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 conda create -n py36_keras224 python=3.6
