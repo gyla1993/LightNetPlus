@@ -1,22 +1,21 @@
 
 # LightNetPlus
 
-data_dir　　　　　\# Validation and test data are stored.
-　|-AWS　　　　　\# Automatic weather station data.
-　|-LIG　　　　　　\# Lightning observation data.
-　|-WRF　　　　　\# WRF simulation data: micro-physical parameters and maximum vertical velocity.
-　|-WRF_ncl　　　　\# WRF simulation data: radar re
-ectivity.
+data_dir　　　　　\# Validation and test data are stored. <br>
+　|-AWS　　　　　\# Automatic weather station data. <br>
+　|-LIG　　　　　　\# Lightning observation data. <br>
+　|-WRF　　　　　\# WRF simulation data: micro-physical parameters and maximum vertical velocity. <br>
+　|-WRF_ncl　　　　\# WRF simulation data: radar reflectivity. <br>
 
-test_dir　　　　　\# Files related to testing are stored.
-　|-curves　　　　\# Performance curves in hours.
-　|-results　　　　\# Prediction results by every model.
-　|-scores　　　　\# Performance scores (POD, FAR, TS, ETS) for every model.
-　|-visualization　　\# Case visualization results for every test period.
+test_dir　　　　　\# Files related to testing are stored. <br>
+　|-curves　　　　\# Performance curves in hours. <br>
+　|-results　　　　\# Prediction results by every model. <br>
+　|-scores　　　　\# Performance scores (POD, FAR, TS, ETS) for every model. <br>
+　|-visualization　　\# Case visualization results for every test period. <br>
 
-train_dir　　　　　\# Files related to training are stored.
-　|-models　　　　\# Trained models.
-　|-records　　　　\# Training log files.
+train_dir　　　　　\# Files related to training are stored. <br>
+　|-models　　　　\# Trained models. <br>
+　|-records　　　　\# Training log files. <br>
 
 data_generator.py　　　\# Read data from data_dir and formats them into numpy arrays.
 
