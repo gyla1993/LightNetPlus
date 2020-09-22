@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# Test a trained model and calculate performance scores for the model.
 
 import os
 import tensorflow as tf

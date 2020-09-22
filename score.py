@@ -1,3 +1,5 @@
+# Calculate performance scores for prediction results.
+
 import datetime
 import os
 import numpy as np

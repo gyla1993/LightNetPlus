@@ -1,3 +1,5 @@
+# Case visualization for every test period.
+
 import numpy as np
 import matplotlib.pyplot as plt
 import datetime

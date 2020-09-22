@@ -1,3 +1,5 @@
+# Train a deep neural network model.
+
 import os
 import model_def
 import tensorflow as tf
