@@ -1,9 +1,27 @@
 
 # LightNetPlus
 
+### Runtime environment
+Our code requires python 3.6 with packages: tensorflow 1.13.1, keras 2.2.4 and numpy. If you use Anaconda, the following commands will help you create a feasible runtime environment.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+conda create -n py36_keras224 python=3.6
 
-## Directory description
+conda activate py36_keras224 
+
+conda install tensorflow-gpu==1.13.1
+
+pip install keras==2.2.4
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Then, you may need to remove the following code 
+```python
+    inputs, initial_state, constants = _standardize_args(
+         inputs, initial_state, constants, self._num_constants)
+```
+from "keras/layers/convolutional_recurrent.py", due to a bug in ConvLSTM2D of keras. cf. https://github.com/keras-team/keras/issues/9761
+
+### Directory description
 data_dir　　　　　\# Validation and test data are stored. <br>
 　|-AWS　　　　　\# Automatic weather station data. <br>
 　|-LIG　　　　　　\# Lightning observation data. <br>
