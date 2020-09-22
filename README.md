@@ -1,6 +1,9 @@
 
 # LightNetPlus
 
+
+
+## Directory description
 data_dir　　　　　\# Validation and test data are stored. <br>
 　|-AWS　　　　　\# Automatic weather station data. <br>
 　|-LIG　　　　　　\# Lightning observation data. <br>
