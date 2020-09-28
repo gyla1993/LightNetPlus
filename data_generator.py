@@ -8,6 +8,7 @@ from global_var import num_WRF, num_LIG, num_AWS, num_PRED, dim_WRF, dim_AWS, la
 import datetime
 import random
 import math
+import os
 
 
 variables3d = ['U', 'V', 'W', 'T', 'P','QVAPOR','QCLOUD','QRAIN','QICE','QHAIL',
