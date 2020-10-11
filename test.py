@@ -81,9 +81,9 @@ if __name__ == "__main__":
         for line in file:
             test_list.append(line.rstrip('\n'))
 
-    model_file = 'LightNetPlus-09.hdf5'     # The model file to be tested.
+    model_file = 'LightNetPlus-09'     # The model file to be tested.
     model_num = 1   # The model number corresponds to model_file. See do_test for more details.
-    trained_model = load_model(model_file_dir + model_file,
+    trained_model = load_model(model_file_dir + model_file+'.hdf5',
                                custom_objects={'dim_WRF': dim_WRF, 'dim_AWS': dim_AWS, 'num_LIG': num_LIG,
                                                'num_AWS': num_AWS, 'num_PRED': num_PRED,
                                                'use_good_start': use_good_start,
