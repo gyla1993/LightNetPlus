@@ -17,7 +17,7 @@ train_dir　　　　　\# Files related to training are stored. <br>
 　|-models　　　　\# Trained models. <br>
 　|-records　　　　\# Training log files. <br>
 
-data_generator.py　　　\# Read data from data_dir and formats them into numpy arrays.
+data_generator.py　　　\# Load data from data_dir and formats them into numpy arrays.
 
 draw_each_hour_curve.py　　　\# Draw performance curves in hours.
 
