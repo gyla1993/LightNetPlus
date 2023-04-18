@@ -57,3 +57,17 @@ Then, you may need to remove the following code
          inputs, initial_state, constants, self._num_constants)
 ```
 from "keras/layers/convolutional_recurrent.py", due to a bug in ConvLSTM2D of keras. cf. https://github.com/keras-team/keras/issues/9761
+
+### Reference  
+```
+@article{geng2021deep,
+  title={A deep learning framework for lightning forecasting with multi-source spatiotemporal data},
+  author={Geng, Yangli-ao and Li, Qingyong and Lin, Tianyang and Yao, Wen and Xu, Liangtao and Zheng, Dong and Zhou, Xinyuan and Zheng, Liming and Lyu, Weitao and Zhang, Yijun},
+  journal={Quarterly Journal of the Royal Meteorological Society},
+  volume={147},
+  number={741},
+  pages={4048--4062},
+  year={2021},
+  publisher={Wiley Online Library}
+}
+```
